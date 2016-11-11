@@ -5,5 +5,5 @@
 - The designed was made by me, inspired in many designs over the internet
 
 Software:
-Retropie - https://retropie.org.uk/
-Adafruit - https://learn.adafruit.com/retro-gaming-with-raspberry-pi/adding-controls-hardware
+- Retropie: https://retropie.org.uk/
+- Adafruit: https://learn.adafruit.com/retro-gaming-with-raspberry-pi/adding-controls-hardware
